@@ -12,5 +12,3 @@ if question == "Y":
 	
 else:
 	print("goodbye have a nice day!")
-		
-	
